@@ -1,0 +1,33 @@
+[
+    {
+      "crop": "Wheat",
+      "yield_kg": 3000,
+      "price_per_kg": 0.25,
+      "cost": 550
+    },
+    {
+      "crop": "Corn",
+      "yield_kg": 8000,
+      "price_per_kg": 0.20,
+      "cost": 1100
+    },
+    {
+      "crop": "Tomatoes",
+      "yield_kg": 25000,
+      "price_per_kg": 0.80,
+      "cost": 8500
+    },
+    {
+      "crop": "Lettuce",
+      "yield_kg": 10000,
+      "price_per_kg": 0.50,
+      "cost": 3200
+    },
+    {
+      "crop": "Potatoes",
+      "yield_kg": 18000,
+      "price_per_kg": 0.30,
+      "cost": 4000
+    }
+  ]
+  
